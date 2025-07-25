@@ -26,19 +26,9 @@ Experienced Web and Mobile App Developer specializing in front-end and cross-pla
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mishraashu2004&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+<img src="https://github-readme-stats.vercel.app/api?username=mishraashu2004&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraashu2004&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraashu2004&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mishraashu2004&theme=default" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/mishraashu2004/count.svg?" alt="visitors count" />
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=mishraashu2004" alt="trophy" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishraashu2004&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mishraashu2004&theme=dark" alt="GitHub Streak" />
 
