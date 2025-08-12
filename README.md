@@ -30,5 +30,4 @@ Experienced Web and Mobile App Developer specializing in front-end and cross-pla
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraashu2004&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mishraashu2004&theme=dark" alt="GitHub Streak" />
 
